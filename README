@@ -1,0 +1,18 @@
+This package contains a few scripts that used to live in the
+MIME-Base64 package but was not assimilated as part of the perl-5.8
+core.
+
+In order to install and use this package you will need Perl version
+5.005 or better.  For perl version 5.005 and 5.6 you will also need to
+install the MIME-Base64 package from CPAN.  For perl 5.8 and later it
+is already included.
+
+Installation as usual:
+
+   perl Makefile.PL
+   make install
+
+Copyright 2003,2005 Gisle Aas <gisle@ActiveState.com>
+
+This library is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.

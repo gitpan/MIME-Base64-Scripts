@@ -1,0 +1,8 @@
+Changes		What's new
+MANIFEST	This file
+Makefile.PL	Writes the Makefile
+README		Please do!
+encode-qp	Encode files as Quoted-Printable
+decode-qp	Decode Quoted-Printable files
+encode-base64	Encode files as Base64
+decode-base64	Decode Quoted-Printable files
